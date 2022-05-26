@@ -12,12 +12,12 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau'
-gc2 = 'https://chat.whatsapp.com/HjRHck1G3WRHOx97fJkdMN'
-gc3 = 'https://chat.whatsapp.com/HcGcIB09sIvKrGytO8yfFn'
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6281273677810','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6281273677810','6288233832771'] //Ketika ada yang ngetik #owner
+gc1 = 'https://chat.whatsapp.com/LYKAIdkBeX97FK0jNsOMAx'
+gc2 = ''
+gc3 = ''
+global.linkGC = ['https://chat.whatsapp.com/LYKAIdkBeX97FK0jNsOMAx', ''] // ganti jadi group lu
+global.owner = ['6281273677810','62 819-5929-3465'] // Put your number here //owner eval
+global.kontak = ['6281273677810','62 819-5929-3465'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -47,11 +47,11 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'mursid.st'
+namaig = 'arrezza20'
 namagithub = 'Botwa021'
 kasihcaption = `Donasi chat owner><`
-namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
-namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
+namakontak1 = 'Pb BOT'
+namakontak2 = 'Faiz'
 
 //kasihcaption = `Instagram.com/mursid.st`
 
@@ -63,7 +63,7 @@ global.author = 'FAISBOT' // ganti aja
 bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
 footer = `\n© _*PB BOT*_`
 namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+namalu = 'Faiz'
 
 
 // 
