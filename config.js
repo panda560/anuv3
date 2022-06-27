@@ -15,10 +15,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/LYKAIdkBeX97FK0jNsOMAx', ''] // ganti jadi group lu
-global.owner = ['+62 812-7367-7810','+62 819-5929-3465','+687 96.50.44'] // Put your number here //owner eval
+global.owner = ['+62 812-7367-7810','+62 819-5929-3465','+66 98 660 9139'] // Put your number here //owner eval
 global.kontak = ['+62 812-7367-7810','+62 819-5929-3465'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','62 812-7367-7810','62 819-5929-3465'] // Premium user has unlimited limit
+global.prems = ['84 796 102 942','62 812-7367-7810','62 819-5929-3465'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -52,17 +52,17 @@ kasihcaption = `Follow Ig @arrezza20`
 namakontak1 = 'Pb bot'
 namakontak2 = 'Faiz'
 
-//kasihcaption = `Follow Ig @mursid.st`
+//kasihcaption = `Follow Ig @arrezza20`
 
 // Sticker WM
-global.packname = 'Pb bot' // ganti aja
-global.author = 'ʙᴏᴛ' // ganti aja
+global.packname = 'PRATAMA MULTIDEVICE' // ganti aja
+global.author = 'M.A.F.PRATAMA' // ganti aja
 
 //yyy
-bc = 'Pb Bot' //мυяѕι∂ Broadcast
-footer = `\n©️ _*PB BOT*_`
+bc = 'pratama multidevice' //Pratama Broadcast
+footer = `\n©️ _*PRATAMA MULTIDEVICE*_`
 namabot = `WhatsApp Bot`
-namalu = 'Faizganz'
+namalu = 'M.A.F.PRATAMA'
 
 
 // 
