@@ -12,8 +12,8 @@ Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
 Pulsa : 081959293465 (+5.000)
-Gopay : 081959293465
-Dana : 081959293465
+Gopay : +62 812-7367-7810
+Dana : -
 `.trim()
     const button = {
         buttonText: 'List Harga',
